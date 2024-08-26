@@ -1,4 +1,4 @@
-# 智能插座管理系统
+# vue3demo
 
 This template should help get you started developing with Vue 3 in Vite.
 
